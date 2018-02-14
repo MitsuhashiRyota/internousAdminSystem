@@ -1,0 +1,51 @@
+.edit-student-title {
+    width: 946px;
+    height: 140px;
+    background-color: #e9e9e9;
+    border-top: medium solid hsl(0, 0%, 71%);
+    border-left: medium solid hsl(0, 0%, 71%);
+    border-right: medium solid hsl(0, 0%, 71%);
+}
+
+.select-area {
+    width: 930px;
+    height: 30px;
+    margin-left: 8px;
+    margin-right: 4px;
+}
+
+.search-text-param {
+    width: 330px;
+}
+
+.search-long-text-param {
+    width: 331px;
+}
+
+.search-button-clear {
+    width: 80px;
+    height: 23px;
+    float: right;
+}
+
+.search-button {
+    width: 80px;
+    height: 23px;
+    float: right;
+}
+
+.margin-left-10 {
+    margin-left: 10px;
+}
+
+.margin-left-20 {
+    margin-left: 20px;
+}
+
+.margin-left-40 {
+    margin-left: 40px;
+}
+
+.margin-left-42 {
+    margin-right: 42px;
+}

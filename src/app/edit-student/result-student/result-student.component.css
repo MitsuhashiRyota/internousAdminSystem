@@ -1,0 +1,204 @@
+.edit-student-main {
+    width: 698px;
+    height: 486px;
+    background-color: #e9e9e9;
+    overflow-y: scroll;
+    float: right;
+    border-top: medium solid hsl(0, 0%, 71%);
+    border-right: medium solid hsl(0, 0%, 71%);
+    border-bottom: medium solid hsl(0, 0%, 71%);
+}
+
+.edit-student-main::-webkit-scrollbar {
+    display: none;
+}
+
+.edit-area {
+    width: 690px;
+    height: 480px;
+    margin-top: 4px;
+    margin-left: 3px;
+}
+
+.name-area {
+    width: 690px;
+    height: 63px;
+    border-bottom: medium solid hsl(0, 0%, 71%);
+}
+
+.name-kana-area {
+    width: 690px;
+    height: 66px;
+    border-bottom: medium solid hsl(0, 0%, 71%);
+}
+
+.permission-container {
+    width: 690px;
+    height: 115px;
+    border-bottom: medium solid hsl(0, 0%, 71%);
+}
+
+.info-area {
+    width: 690px;
+    height: 110px;
+    border-bottom: medium solid hsl(0, 0%, 71%);
+}
+
+.comment-area {
+    width: 690px;
+    height: 130px;
+    border-bottom: medium solid hsl(0, 0%, 71%);
+}
+
+.status-area {
+    width: 690px;
+    height: 110px;
+    border-bottom: medium solid hsl(0, 0%, 71%);
+}
+
+.enrollment-area {
+    width: 690px;
+    height: 44px;
+}
+
+.company-area {
+    width: 690px;
+    height: 60px;
+    margin-top: 5px;
+}
+
+.age-area {
+    width: 260px;
+    height: 51px;
+}
+
+.tel-number-area {
+    margin-top: 5px;
+    height: 60px;
+}
+
+.address-area {
+    margin-top: 8px;
+}
+
+.start-date-area {
+    margin-top: 3px;
+    height: 45px;
+}
+
+.start-date-label {
+    margin-left: 10px;
+}
+
+.via-area {
+    margin-top: 8px;
+    height: 60px;
+}
+
+.personality-label {
+    margin-left: 15px;
+}
+
+.personality-info-area {
+    margin-top: 2px;
+}
+
+.git-area {
+    margin-top: 3px;
+}
+
+.name-param {
+    width: 300px;
+    height: 30px;
+    font-size: 18px;
+    margin-top: 3px;
+    margin-left: 8px;
+}
+
+.name-kana-param {
+    width: 260px;
+    height: 30px;
+    font-size: 18px;
+    margin-top: 7px;
+    margin-left: 8px;
+}
+
+.name-kana-sei {
+    width: 284px;
+}
+
+.name-kana-mei {
+    width: 283px;
+}
+
+.age-param {
+    width: 100px;
+    height: 30px;
+}
+
+.tel-number-param {
+    width: 80px;
+    height: 30px;
+}
+
+.start-year-param {
+    width: 80px;
+    height: 20px;
+    margin-left: 10px;
+}
+
+.start-month-param {
+    width: 80px;
+    height: 20px;
+}
+
+.mail-address-param {
+    width: 553px;
+    height: 30px;
+}
+
+.company-param {
+    width: 244px;
+    height: 30px;
+    font-size: 18px;
+}
+
+.via-param {
+    width: 191px;
+}
+
+.personality-param {
+    width: 80px;
+    height: 20px;
+}
+
+.personality-info-param {
+    margin-top: 2px;
+    width: 670px;
+    height: 70px;
+}
+
+.git-url-param {
+    width: 240px;
+}
+
+.error-message {
+    color: red;
+}
+
+.float-left {
+    float: left;
+}
+
+.submit-button {
+    margin: 0 auto;
+    text-align: center;
+    width: 690px;
+    height: 50px;
+    margin-top: 20px;
+}
+
+.submit-button-size {
+    width: 180px;
+    height: 50px;
+}

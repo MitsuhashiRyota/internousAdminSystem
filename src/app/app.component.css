@@ -1,0 +1,35 @@
+.menu-area {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    margin-top: 40px;
+}
+
+.menu {
+    width: 199px;
+    height: 50px;
+    border-top: medium solid hsl(228, 38%, 33%);
+    margin-top: 2px;
+}
+
+.menu-button {
+    width: 196px;
+    height: 50px;
+    color: white;
+    background-color: #5a658c;
+    border-style: none;    
+}
+
+.menu-bottom {
+    border-bottom: medium solid hsl(228, 38%, 33%);
+}
+
+.toggle-area {
+    height: 20px;
+    float: right;
+}
+
+.toggle-button {
+    background-color: #5a658c;
+    border-style: none;  
+}
